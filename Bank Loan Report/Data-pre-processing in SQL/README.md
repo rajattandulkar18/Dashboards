@@ -1,0 +1,1 @@
+This folder contains all the sql files.Queries performed while data preprocessing are present in these files.KPI's and other parameters are calculated in sql which sync with the values in the dashboard.
